@@ -1,0 +1,38 @@
+		
+		
+p{
+			font-size:30px;
+
+		}
+		#ex1{
+
+			color: red;
+			background: linear-gradient(45deg, white,violet,pink);
+			font-weight: 400;
+			font-style: italic;
+
+		}
+		#ex2{
+
+		}
+		#ex3{
+			text-decoration: underline;
+			text-decoration-color: purple; 
+			text-underline-position: under;
+			text-decoration-style: wavy;
+		}
+		#ex4{
+			text-decoration: line-through;
+			text-decoration-color: red; 
+			text-underline-position: under;
+			text-decoration-style: dashed;
+
+		}
+		#ex5{
+			text-shadow: 2px -2px red;
+		}
+		.ex6{
+			font-size: 2em;
+			color: violet;
+			font-weight: 300px;
+		}
